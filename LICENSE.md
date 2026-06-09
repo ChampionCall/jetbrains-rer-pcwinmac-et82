@@ -1,4 +1,4 @@
-# 
+# 精英 JetBrains Rider 模板 Mac OS版 | 安全 JetBrains Rider 模板 PC Windows版。集成 报表服务 和 响应可视化，跨平台性能最大化。
 
 
 
